@@ -1,0 +1,46 @@
+
+
+
+header {
+  width: 500px;
+  height: 250px;
+  background-color: tomato;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: blueviolet;
+}
+
+.item {
+  color: red;
+}
+p{
+
+  color: black;
+} 
+hr {
+  margin-top: 20px;
+  margin-bottom:20px;
+  margin-right: 40px;
+  margin-left: 40px;
+  margin: 40px 60px 80px 10px;
+  margin: 120px 200px;
+  margin: 30px 70px 20px;
+}
+
+.caja{
+  
+  width: 300px;
+  height: 400px;;
+  background: blue;
+  margin: 80px;
+  border: solid 20px #fEa ;
+  color: #fFF;
+  padding-top:30px;
+  padding-right:50px;
+  padding-bottom:150px;
+  box-sizing: 30PX;
+}
